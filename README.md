@@ -1,3 +1,4 @@
+# Modified MNIST Challenge 
 
 This project is a collaboration with Carl Perreault-Lafleur and Khoren Ponsin.
 
