@@ -1,13 +1,19 @@
 The notebook 'Digit_Split_Model' contains all the results for the Intuitive Approach part of the project.
+
 The notebook 'Double_Data' contains the code used to run the 4 layers CNN on the doubled dataset.
+
 The creation of the additional images can be done using the following ressources: https://github.com/shaohua0116/MultiDigitMNIST
+
 The notebooks 'Modified_VGG-16vsVGG-16' and 'Project_3_ml_vgg16' contain all the results for the VGG-16 part of the project.
+
 The notebooks 'Project_3_ml_tuning_lr_0_0001', and 'Project_3_ml_tuning_lr_0_00005' contain all the results for the Tuning the Learning Rate part of the project.
+
 The notebooks 'Batch_Size_Tuning' contain all the results for the Tuning the Batch Size part of the project.
 
 In those notebooks, we used the following packages:
 
-import pandas as pd
+- import pandas as pd
+
 %matplotlib inline
 from matplotlib import pyplot as plt
 import numpy as np
