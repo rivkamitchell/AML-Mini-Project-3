@@ -1,3 +1,9 @@
+The goal of this project is to implement a model that predicts the highest value digit in an image containing three
+randomly placed, randomly rotated MNIST digits in a gray-scale image. The models were used to participate in a Kaggle
+Competition titled “Modified MNIST". The goal of this competition was to achieve the top prediction accuracy score on
+a provided test dataset. Through a variety experiments used to tune hyperparameters and determine the top performing
+neural network architecture, we arrived at a model which achieved a test accuracy score of 96.033%. 
+
 Our results are summarized in the following:
 https://drive.google.com/file/d/1JDnIOXBIhBpj9LOTw9BVav3bUnkK8g8u/view?usp=sharing
 
